@@ -1,0 +1,14 @@
+
+.gif-item {
+  box-shadow: 2px 2px 4px 1px #ccc;
+  display: inline-block;
+  padding: 16px;
+  position: relative;
+  max-width: 250px;
+  height: fit-content;
+  cursor: pointer;
+
+  img {
+    width: 100%;
+  }
+}

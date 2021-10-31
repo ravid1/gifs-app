@@ -1,0 +1,11 @@
+
+.gif-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 24px;
+  flex: 1;
+
+  .gif-item-container {
+    margin-right: 10px;
+  }
+}
